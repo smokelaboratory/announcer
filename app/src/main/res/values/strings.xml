@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Announcer Demo</string>
+
+    <string name="counter_x">Counter : %d</string>
+    <string name="next_screen">Next screen</string>
+    <string name="announce">Announce</string>
+    <string name="counter_value">Counter value</string>
+    <string name="unregister">Unregister</string>
+    <string name="register">Register</string>
+</resources>
