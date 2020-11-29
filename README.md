@@ -16,7 +16,7 @@ Announcer is a kotlin-first Android library which leverages Kotlin Flow and Coro
 * No boilerplate code
 * Leverages Flow and Coroutines
 * Easy management with announcement ID
-* Auto-cancellation of announcements based on coroutine scope 
+* Auto-cancellation of announcements based on coroutine scope
 
 ## Gradle Dependency
 
